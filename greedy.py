@@ -32,6 +32,8 @@ if len(answer) > 0 :
 """
 lecture= [[1,1,3], [2,2,5], [3,4,7], [4,1,8], [5,5,9], [6,8,10], [7,9,11], [8,11,14], [9,13,16]]
 
+
+
 """ 
 def selectLectureCount(args) : 
     
@@ -40,6 +42,7 @@ def selectLectureCount(args) :
     for item in lecture : 
         item[2] -item[1] 
          """
+
 
 
 
